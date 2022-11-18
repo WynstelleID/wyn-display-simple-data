@@ -8,7 +8,7 @@ const user = {
   likes: "Coding when u fell asleep",
   twitterUserName: "dandisetiyawan_",
   avatar:
-    "https://spesialis1.orthopaedi.fk.unair.ac.id/wp-content/uploads/2021/02/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg",
+    "https://media-exp1.licdn.com/dms/image/C5603AQHsk8C5F4uOAg/profile-displayphoto-shrink_200_200/0/1648550981206?e=1670457600&v=beta&t=6OYlHFlSKNhGOmiLP11H_bsZC7085h2xhuqCGAaJFJw",
 };
 
 function App() {
